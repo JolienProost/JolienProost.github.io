@@ -1,4 +1,5 @@
 ---
-layout: site
+_layout: site
 ---
-Hier is mijn CV!
+
+# Hier is mijn CV!
