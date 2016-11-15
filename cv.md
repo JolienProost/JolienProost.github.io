@@ -1,1 +1,4 @@
-Hier is mijn cv :D 
+---
+layout: site
+---
+Hier is mijn CV!
