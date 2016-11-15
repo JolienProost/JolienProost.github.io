@@ -1,4 +1,5 @@
 ---
+layout: site
 ---
 
 # Jolien's website 
