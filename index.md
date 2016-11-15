@@ -1,7 +1,6 @@
 ---
 ---
 # Jolien's website 
-Welcome to my github pages website!
-Using Markdown!
+Welcome to my new website!
 
 ![alt text](/images/ik.jpg)
